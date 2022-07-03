@@ -1,0 +1,14 @@
+.buttonsContainer {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  justify-content: space-around;
+
+  .btnText {
+    color: #FFF;
+    background-color: #353535
+  }
+}
